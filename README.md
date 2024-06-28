@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qazi-Talha-Ali-087
+- 👋 Hi, I’m @Qazi-Talha-Ali
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning pattern recoginition and machine learning
 - 💞️ I’m looking to collaborate on software development projects
